@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+.search-box p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #DBDBDB;
+}
+
+.storie span{
+    font-family: 'Roboto';
+    line-height: 14px;
+    font-size: 12px;
+}
+
+.username{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.name {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #8E8E8E;
+}
+
+#container-sugestoes-text p:nth-child(1){
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #8E8E8E;
+}
+
+#container-sugestoes-text p:nth-child(2){
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #262626;
+}
+
+.follow {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #0095F6;
+}
+.sugestion-name{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #8E8E8E;
+}
+
+#termos-text p:nth-child(1){
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    color: #C7C7C7;
+}
+
+#termos-text p:nth-child(2){
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    color: #C7C7C7;
+}
+
