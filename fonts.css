@@ -28,6 +28,25 @@
     line-height: 16px;
     color: #8E8E8E;
 }
+.photo-name-container span{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px; 
+    color: #262626;
+}
+.footer-container2 p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+.footer-container2 span{
+    font-weight: 500;
+}
 
 #container-sugestoes-text p:nth-child(1){
     font-family: 'Roboto';
