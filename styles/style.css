@@ -33,6 +33,10 @@ ion-icon:hover {
 #header-mobile {
     display: none;
 }
+#teste {
+    width: 100%;
+    max-width: 200px;
+}
 
 /** INICIO PRIMEIRA CAIXA HEADER**/
 .logo {
@@ -215,6 +219,8 @@ ion-icon:hover {
     margin: 0px 17px;
 }
 
+
+
 .footer-container1 {
     display: flex;
     align-items: center;
@@ -230,8 +236,10 @@ ion-icon:hover {
 
 .footer-icons-container {
     display: flex;
-    gap: 5px;
+    gap: 15px;
 }
+
+
 
 #right-arrow ion-icon {
     color: #FFFFFF;
@@ -363,7 +371,7 @@ ion-icon:hover {
     }
 }
 
-@media (max-width: 620px) {
+@media (max-width: 614px) {
 
     #header,
     .hidden-mobile,
@@ -380,6 +388,9 @@ ion-icon:hover {
         display: flex;
         justify-content: space-between;
         padding: 0 8px;
+    }
+    #teste {
+        display: none;
     }
 
 }
